@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to bottom, #808080, #000000);
+    color: white;
+  }
+
+  .dis
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
